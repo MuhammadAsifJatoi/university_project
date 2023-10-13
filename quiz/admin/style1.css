@@ -1,0 +1,36 @@
+#input{
+	margin-top: 3px;
+	font-size: 12px;
+	width: 200px;
+}
+#button{
+	font-size: 10px;
+	width: 80px;
+	margin-top: 3px;
+}
+#detail{
+	font-size: 12px;
+	text-align: right;
+}
+#sbtn{
+	margin: 0px;
+	font-size: 10px;
+	width: 60px;
+}
+#searchinput{	
+	font-size: 17px;
+	width: 150px;
+	margin-top: 3px;
+}
+
+#menu{
+	background-color: #00b0f0;
+	color: black;
+	font-weight: bold;
+	font-size: 12px;
+}
+#start_btn{
+	font-size: 15px;
+	width: 350px;
+	margin-top: 8px;
+}
